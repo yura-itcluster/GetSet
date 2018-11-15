@@ -31,7 +31,7 @@ namespace GetSet
         static void Main(string[] args)
         {
             Person person = new Person();
-            person.Age = 5;
+            person.Age = 6;
             Console.WriteLine(person.Age);
             Console.ReadKey();
         }
